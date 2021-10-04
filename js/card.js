@@ -3,98 +3,110 @@ const obj = [
     {
         "id" : "1",
         "subject" : "Physics",
-        "name" : "YouTube Channel",
-        "topic" : "C++",
+        "name" : "WALTER LEWIN",
+        "topic" : "Classical Physics",
         "about" : "C++ is not a physics concept",
-        "link" : "https://www.youtube.com/embed/h_3pYoL6dPg"
+        "link" : "https://www.youtube.com/embed/wWnfJ0-xXRE",
+        "y-link" : "https://youtu.be/wWnfJ0-xXRE"
     },
     {
         "id" : "2",
         "subject" : "Physics",
-        "name" : "YouTube Channel",
-        "topic" : "C++",
+        "name" : "HC VERMA",
+        "topic" : "Classical Physics",
         "about" : "C++ is not a physics concept",
-        "link" : "https://www.youtube.com/embed/tgbNymZ7vqY"
+        "link" : "https://www.youtube.com/embed/6oVi6UcrIeA",
+        "y-link" : "https://youtu.be/6oVi6UcrIeA"
     },
     {
         "id" : "3",
         "subject" : "Physics",
-        "name" : "YouTube Channel",
-        "topic" : "C++",
-        "about" : "C++ is not a physics concept",
-        "link" : "https://www.youtube.com/embed/tgbNymZ7vqY"
+        "name" : "Physics Wallah",
+        "topic" : "Classical Physics",
+        "about" : "By Alakh Pandey",
+        "link" : "https://www.youtube.com/embed/YzxUZzMrlfQ",
+        "y-link" : "https://youtu.be/YzxUZzMrlfQ"
     },
     {
         "id" : "4",
-        "subject" : "Physics",
-        "name" : "YouTube Channel",
-        "topic" : "C++",
-        "about" : "C++ is not a physics concept",
-        "link" : "https://www.youtube.com/embed/tgbNymZ7vqY"
+        "subject" : "Chemistry",
+        "name" : "LearnoHub",
+        "topic" : "Organic",
+        "about" : "Chemistry for class 11",
+        "link" : "https://www.youtube.com/embed/L88uuqmAioU",
+        "y-link" : "https://youtu.be/L88uuqmAioU"
     },
     {
         "id" : "5",
-        "subject" : "Physics",
-        "name" : "YouTube Channel",
-        "topic" : "Java",
-        "about" : "Java is not a physics concept",
-        "link" : "https://www.youtube.com/embed/tgbNymZ7vqY"
+        "subject" : "Chemistry",
+        "name" : "Unacademy JEE",
+        "topic" : "Organic",
+        "about" : "Chemistry for JEE prep",
+        "link" : "https://www.youtube.com/embed/i_lcQQZ9mm8",
+        "y-link" : "https://youtu.be/i_lcQQZ9mm8"
     },
     {
         "id" : "6",
         "subject" : "Physics",
-        "name" : "YouTube Channel",
-        "topic" : "Python",
+        "name" : "Geek's Lesson",
+        "topic" : "Quantum Physics",
         "about" : "Python is not a physics concept",
-        "link" : "https://www.youtube.com/embed/tgbNymZ7vqY"
+        "link" : "https://www.youtube.com/embed/xnt2xSNRNn0",
+        "y-link" : "https://youtu.be/xnt2xSNRNn0"
     },
     {
         "id" : "7",
-        "subject" : "Chemistry",
-        "name" : "YouTube Channel",
-        "topic" : "Frontend",
-        "about" : "Frontend is not a chem concept",
-        "link" : "https://www.youtube.com/embed/tgbNymZ7vqY"
+        "subject" : "Physics",
+        "name" : "Physics Wallah",
+        "topic" : "Quantum Physics",
+        "about" : "By Alakh Pandey",
+        "link" : "https://www.youtube.com/embed/2JYSVsXV3Ac",
+        "y-link" : "https://youtu.be/2JYSVsXV3Ac"
     },
     {
         "id" : "8",
-        "subject" : "Chemistry",
-        "name" : "YouTube Channel",
-        "topic" : "Frontend",
+        "subject" : "Physics",
+        "name" : "HC VERMA",
+        "topic" : "Quantum Physics",
         "about" : "Frontend is not a chem concept",
-        "link" : "https://www.youtube.com/embed/tgbNymZ7vqY"
+        "link" : "https://www.youtube.com/embed/s8YgJ1LRi1s",
+        "y-link" : "https://youtu.be/s8YgJ1LRi1s"
     },
     {
         "id" : "9",
-        "subject" : "Biology",
-        "name" : "YouTube Channel",
-        "topic" : "Physiology",
-        "about" : "Physiology is the study of human body",
-        "link" : "https://www.youtube.com/embed/tgbNymZ7vqY"
+        "subject" : "Chemistry",
+        "name" : "Apni Kaksha",
+        "topic" : "Organic",
+        "about" : "Chemistry for class 12",
+        "link" : "https://www.youtube.com/embed/1v5Yt4-Bfio",
+        "y-link" : "https://youtu.be/1v5Yt4-Bfio"
     },
     {
         "id" : "10",
-        "subject" : "Biology",
-        "name" : "YouTube Channel",
-        "topic" : "Botany",
-        "about" : "Botany is the study of plants",
-        "link" : "https://www.youtube.com/embed/tgbNymZ7vqY"
+        "subject" : "Chemistry",
+        "name" : "eCareerPoint",
+        "topic" : "Inorganic",
+        "about" : "Chemistry for class 12",
+        "link" : "https://www.youtube.com/embed/n0LCwO7pzNI",
+        "y-link" : "https://youtu.be/n0LCwO7pzNI"
     },
     {
         "id" : "11",
-        "subject" : "Biology",
+        "subject" : "Chemistry",
         "name" : "YouTube Channel",
-        "topic" : "Environment",
+        "topic" : "Physical",
         "about" : "Environmental Science is a bio concept",
-        "link" : "https://www.youtube.com/embed/tgbNymZ7vqY"
+        "link" : "https://www.youtube.com/embed/tgbNymZ7vqY",
+        "y-link" : "https://youtu.be/wWnfJ0-xXRE"
     },
     {
         "id" : "12",
         "subject" : "Chemistry",
-        "name" : "YouTube Channel",
-        "topic" : "Backend",
-        "about" : "Backend is not a chem concept",
-        "link" : "https://www.youtube.com/embed/tgbNymZ7vqY"
+        "name" : "Competition Wallah",
+        "topic" : "Inorganic",
+        "about" : "Inorganic in one shot",
+        "link" : "https://www.youtube.com/embed/3T1p0Q74x7I",
+        "y-link" : "https://youtu.be/3T1p0Q74x7I"
     }
 ]
 
@@ -117,7 +129,7 @@ for(let j =0;j<obj.length;j++)
              <li class="list-group-item">${obj[j].topic}</li>
              </ul>
              <div class="card-body">
-             <a href="#" class="card-link">Card link</a>
+             <a target="blank" href="${obj[j]["y-link"]}" class="card-link">Card link</a>
              </div>
              </div>`
              document.getElementById('card-add').appendChild(createCard);
