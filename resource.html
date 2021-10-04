@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>FunEd</title>
+    <link rel="stylesheet" href="./css/style.css" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU"
+      crossorigin="anonymous"
+    />
+    <link
+      href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+      rel="stylesheet"
+    />
+    <!-- <link rel="stylesheet" type="text/css" href="style.css" /> -->
+    <!--Bootstrap Icons -->
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css"
+    />
+    <!--Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body id="resource">
+    <!-- Navbar Section -->
+
+    <nav class="navbar navbar-light sticky-md-top">
+      <div class="container-fluid">
+        <a class="navbar-brand">Navbar</a>
+        <ul class="d-flex">
+          <li class="nav-item">
+            <a class="nav-link" href="./index.html">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" href="./resource.html">Resources</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="./writeUp.html">WriteUp</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="./FunFacts.html">FunFacts</a>
+          </li>
+          <li class="nav-item"><a class="nav-link" href="#">something</a></li>
+        </ul>
+      </div>
+    </nav>
+    <!-- <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="#">Navbar</a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarTogglerDemo02"
+          aria-controls="navbarTogglerDemo02"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0 mt-5 z-index-2">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="#">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Link</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link disabled">Disabled</a>
+              </li>
+            </ul>
+          </span>
+        </button>
+      </div>
+      <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="#">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Link</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link disabled">Disabled</a>
+          </li>
+        </ul>
+      </div>
+    </nav> -->
+
+    <div class="container-fluid my-3 nav-bg" id="resourceContainer">
+      <div id="sidebar" class="d-flex flex-column flex-shrink-0 p-6 m-3 mx-4">
+        <h4 id="categoryText">Subjects</h4>
+        <hr />
+        <ul class="nav nav-pills flex-column mb-auto">
+          <li class="category">
+            <button class="link-dark btn-style">Physics</button>
+            <div class="select-option">
+              <button class="btn select-category-btn text-start" value="C++">
+                C++
+              </button>
+              <button class="btn select-category-btn text-start" value="Java">
+                Java
+              </button>
+              <button class="btn select-category-btn text-start" value="Python">
+                Python
+              </button>
+            </div>
+          </li>
+          <li class="category">
+            <button class="link-dark btn-style">Chemistry</button>
+            <div class="select-option">
+              <button
+                class="btn select-category-btn text-start"
+                value="Frontend"
+              >
+                Frontend
+              </button>
+              <button
+                class="btn select-category-btn text-start"
+                value="Backend"
+              >
+                Backend
+              </button>
+              <button
+                class="btn select-category-btn text-start text-start"
+                value="Web"
+              >
+                MERN
+              </button>
+            </div>
+          </li>
+          <li class="category">
+            <button class="link-dark btn-style">Biology</button>
+            <div class="select-option">
+              <button
+                class="btn select-category-btn text-start text-start"
+                value="Physiology"
+              >
+                Physiology
+              </button>
+              <button
+                class="btn select-category-btn text-start text-start"
+                value="Botany"
+              >
+                Botany
+              </button>
+              <button
+                class="btn select-category-btn text-start text-start"
+                value="Environment"
+              >
+                Environmental Science
+              </button>
+            </div>
+          </li>
+          <li class="category">
+            <button class="link-dark btn-style">Maths</button>
+            <div class="select-option">
+              <button class="btn select-category-btn text-start" value="Design">
+                HTML
+              </button>
+              <button class="btn select-category-btn text-start" value="Design">
+                HTML
+              </button>
+              <button class="btn select-category-btn text-start" value="Design">
+                HTML
+              </button>
+            </div>
+          </li>
+          <li class="category">
+            <button class="link-dark btn-style">Social Science</button>
+            <div class="select-option">
+              <button class="btn select-category-btn text-start" value="Design">
+                HTML
+              </button>
+              <button class="btn select-category-btn text-start" value="Design">
+                HTML
+              </button>
+              <button class="btn select-category-btn text-start" value="Design">
+                HTML
+              </button>
+            </div>
+          </li>
+          <li class="category">
+            <button class="link-dark btn-style">English</button>
+            <div class="select-option">
+              <button class="btn select-category-btn text-start" value="Design">
+                HTML
+              </button>
+              <button class="btn select-category-btn text-start" value="Design">
+                HTML
+              </button>
+              <button class="btn select-category-btn text-start" value="Design">
+                HTML
+              </button>
+            </div>
+          </li>
+        </ul>
+        <hr />
+      </div>
+      <!-- Sidebar Ends -->
+      <!-- Cards-section starts -->
+      <div class="card-section container">
+        <div id="card-add" class="d-flex flex-wrap"></div>
+      </div>
+      <!-- Cards-section ends -->
+    </div>
+    <a href="./index.html">Home</a>
+    <script src="./js/index.js"></script>
+    <script src="./js/card.js"></script>
+  </body>
+</html>
