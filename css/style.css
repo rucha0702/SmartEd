@@ -11,9 +11,9 @@
   --primary-search-dropdown: #f0eee4;
   --primmary-shadow: rgb(133, 130, 130);
 }
-body {
-  /* overflow-x: hidden; */
-}
+/* body {
+  overflow-x: hidden;
+} */
 #resource {
   background: var(--primary-contact-background);
 }
@@ -163,12 +163,36 @@ li {
   width: 50%;
   margin: auto;
   position: relative;
+  /* top: 100vh; */
+}
+.top-posn {
   top: 100vh;
+}
+.footer {
+  position: relative;
+  bottom: 0;
+  top: 118vh;
+  z-index: -1;
+  color: white;
 }
 .features {
   margin: auto;
   position: relative;
-  top: 100vh;
+  /* top: 100vh; */
+}
+.makeBold {
+  font-weight: 700;
+}
+.bg-round {
+  background: black;
+  text-decoration: none;
+}
+a.nav-link {
+  font-weight: 600;
+  color: black;
+}
+a.bg-round {
+  color: white;
 }
 @media only screen and (max-width: 768px) {
   #sidebar {

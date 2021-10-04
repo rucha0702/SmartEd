@@ -16,6 +16,13 @@
       href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
       rel="stylesheet"
     />
+
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.15.4/css/all.css"
+      integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm"
+      crossorigin="anonymous"
+    />
     <!-- <link rel="stylesheet" type="text/css" href="style.css" /> -->
     <!--Bootstrap Icons -->
     <link
@@ -43,25 +50,31 @@
       alt=""
     />
 
-    <nav class="mx-5 navbar navbar-light sticky-md-top">
+    <nav class="mx-5 navbar navbar-light">
       <div class="container-fluid">
-        <a class="navbar-brand">
-          <h3>Smart<span class="font-weight-bolder">Ed</span></h3>
+        <a href="./homepage.html" class="navbar-brand">
+          <h3>Smart<span class="font-weight-bolder makeBold">Ed</span></h3>
         </a>
         <ul class="d-flex">
           <li class="nav-item">
-            <a class="nav-link" href="./index.html">Home</a>
+            <a class="nav-link rounded-pill bg-round" href="./homepage.html"
+              >Home</a
+            >
           </li>
           <li class="nav-item">
-            <a class="nav-link active" href="./resource.html">Resources</a>
+            <a class="nav-link active rounded-pill" href="./resource.html"
+              >Resources</a
+            >
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="./writeUp.html">WriteUp</a>
+            <a class="nav-link rounded-pill" href="./writeUp.html">WriteUp</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="./FunFacts.html">FunFacts</a>
+            <a class="nav-link rounded-pill" href="./FunFacts.html">FunFacts</a>
           </li>
-          <li class="nav-item"><a class="nav-link" href="#">something</a></li>
+          <li class="nav-item rounded-pill">
+            <a class="nav-link" href="#">something</a>
+          </li>
         </ul>
       </div>
     </nav>
@@ -73,9 +86,9 @@
         ><button class="btn btn-dark rounded-pill mt-3">Learn More</button></a
       >
     </div>
-    <div id="about" class="about-section">
+    <div id="about" class="about-section top-posn">
       <div class="text-center">
-        <h2>About SmartEd</h2>
+        <h2 class="makeBold">About SmartEd</h2>
         <p>
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui ipsum
           veniam magnam quo laudantium voluptate quos sequi in harum, iste
@@ -92,9 +105,10 @@
         d-flex
         flex-column
         align-items-center
+        top-posn
       "
     >
-      <h2>Our Features</h2>
+      <h2 class="makeBold">Our Features</h2>
       <div class="d-flex mt-5">
         <div class="d-flex mx-5">
           <div class="mx-3">1</div>
@@ -108,6 +122,13 @@
           <div class="mx-3">1</div>
           <h3>Free Resources</h3>
         </div>
+      </div>
+    </div>
+    <div class="footer text-center w-100 p-4 mt-5 bg-dark">
+      <div class="text-center">
+        Made with
+        <i style="color: red" class="fas fa-heart mx-1"></i> by team
+        <span class="font-weight-bold makeBold">index.html</span>
       </div>
     </div>
   </body>
