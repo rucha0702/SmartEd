@@ -1,25 +1,28 @@
 <html lang="en">
-	<head>
-		<meta charset="UTF-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<title>SmartEd - SAWO Authentication</title>
-		<link rel="stylesheet" href="/style2.css" />
-	</head>
-	<body>
-		<div id="sawo-container" style="height: 300px; width: 300px"></div>
-		<div id="status"></div>
-		<script src="https://websdk.sawolabs.com/sawo.min.js"></script>
-		<script>
-			var config = {
-				containerID: "sawo-container",
-				identifierType: "email", 
-				apiKey: "4fc64d49-18ad-4497-a5c7-7bc695fe8f7f",
-				onSuccess: (payload) => {
-					window.location = "https://smart-ed.netlify.app/homepage.html";
-				},
-			};
-			var sawo = new Sawo(config);
-			sawo.showForm();
-		</script>
-	</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SmartEd - SAWO Authentication</title>
+    <link rel="stylesheet" href="/style2.css" />
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body>
+    <div class="main-container">
+      <div id="sawo-container" style="height: 300px; width: 300px"></div>
+      <div id="status"></div>
+    </div>
+    <script src="https://websdk.sawolabs.com/sawo.min.js"></script>
+    <script>
+      var config = {
+        containerID: 'sawo-container',
+        identifierType: 'email',
+        apiKey: '4fc64d49-18ad-4497-a5c7-7bc695fe8f7f',
+        onSuccess: (payload) => {
+          window.location = 'https://smart-ed.netlify.app/homepage.html';
+        },
+      };
+      var sawo = new Sawo(config);
+      sawo.showForm();
+    </script>
+  </body>
 </html>
