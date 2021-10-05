@@ -5,9 +5,20 @@ for(let i =0;i<category.length;i++)
 
     category[i].querySelector('.btn-style').addEventListener('click',()=>{
 
-        for(let i=0;i<category.length;i++)
+         const active = document.getElementsByClassName('btn-style');
+         for(let j=0;j<active.length;j++)
+         {
+             active[j].style.background="white";
+             active[j].style.color="black";
+         }
+         category[i].querySelector('.btn-style').style.background="black";
+         category[i].querySelector('.btn-style').style.color="white";
+        //  category[i].querySelector('.btn-style').classList.add('btn-click');
+         
+
+        for(let j=0;j<category.length;j++)
         {
-            let x = category[i].querySelector('.select-option');
+            let x = category[j].querySelector('.select-option');
              x.style.display="none";
         }
 
