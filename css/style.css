@@ -99,13 +99,15 @@ li {
 }
 /* card-section */
 .card-section {
-  margin: 1rem 3rem;
+  margin: 1rem;
 }
 
 .card {
   background: var(--primary-background);
   padding: 1rem;
+  border-radius: 20px;
 }
+
 #box {
   padding: 2rem;
   font-size: 1.5rem;

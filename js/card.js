@@ -50,7 +50,7 @@ const obj = [
         "subject" : "Physics",
         "name" : "Geek's Lesson",
         "topic" : "Quantum Physics",
-        "about" : "Python is not a physics concept",
+        "about" : "Python",
         "link" : "https://www.youtube.com/embed/xnt2xSNRNn0",
         "y-link" : "https://youtu.be/xnt2xSNRNn0"
     },
@@ -68,7 +68,7 @@ const obj = [
         "subject" : "Physics",
         "name" : "HC VERMA",
         "topic" : "Quantum Physics",
-        "about" : "Frontend is not a chem concept",
+        "about" : "Quantum",
         "link" : "https://www.youtube.com/embed/s8YgJ1LRi1s",
         "y-link" : "https://youtu.be/s8YgJ1LRi1s"
     },
@@ -95,7 +95,7 @@ const obj = [
         "subject" : "Chemistry",
         "name" : "YouTube Channel",
         "topic" : "Physical",
-        "about" : "Environmental Science is a bio concept",
+        "about" : "Environment",
         "link" : "https://www.youtube.com/embed/tgbNymZ7vqY",
         "y-link" : "https://youtu.be/wWnfJ0-xXRE"
     },
@@ -156,7 +156,7 @@ const obj = [
     {
         "id" : "18",
         "subject" : "Biology",
-        "name" : "The Physiological Society",
+        "name" : "Physiological Society",
         "topic" : "Physiology",
         "about" : "Inorganic in one shot",
         "link" : "https://www.youtube.com/embed/nkfunphAKqo",
@@ -302,7 +302,7 @@ const obj = [
         "subject" : "Chemistry",
         "name" : "YouTube Channel",
         "topic" : "Physical",
-        "about" : "Environmental Science is a bio concept",
+        "about" : "Environment",
         "link" : "https://www.youtube.com/embed/tgbNymZ7vqY",
         "y-link" : "https://youtu.be/wWnfJ0-xXRE"
     }
@@ -313,13 +313,13 @@ let selBtn = document.querySelectorAll('.select-category-btn');
 for(let j =0;j<obj.length;j++)
 {
     let createCard = document.createElement('div');
-             createCard.innerHTML= `<div class="card bg-light m-3" style="width: 18rem; height:22rem">
+             createCard.innerHTML= `<div class="card bg-light m-3 card-style" style="width: 18rem; height:22rem">
             
              <iframe class="rounded align-self-md-center" width="90%" height="40%" src=${obj[j].link}>
 </iframe>
              <div class="card-body">
-             <h5 class="card-title">${obj[j].name}</h5>
-             <p class="card-text">
+             <h5 class="card-title text-center">${obj[j].name}</h5>
+             <p class="card-text text-center">
              ${obj[j].about}
              </p>
              </div>
@@ -327,7 +327,7 @@ for(let j =0;j<obj.length;j++)
              <li class="list-group-item">${obj[j].topic}</li>
              </ul>
              <div class="card-body">
-             <a target="blank" href="${obj[j]["y-link"]}" class="card-link">Card link</a>
+             <a class="btn btn-secondary" target="blank" href="${obj[j]["y-link"]}" class="card-link">Card link</a>
              </div>
              </div>`
              document.getElementById('card-add').appendChild(createCard);
@@ -355,8 +355,8 @@ for(let j =0;j<obj.length;j++)
              <iframe class="rounded align-self-md-center" width="90%" height="40%" src=${obj[j].link}>
 </iframe>
              <div class="card-body">
-             <h5 class="card-title">${obj[j].name}</h5>
-             <p class="card-text">
+             <h5 class="card-title text-center">${obj[j].name}</h5>
+             <p class="card-text text-center">
              ${obj[j].about}
              </p>
              </div>
@@ -364,7 +364,7 @@ for(let j =0;j<obj.length;j++)
              <li class="list-group-item">${obj[j].topic}</li>
              </ul>
              <div class="card-body">
-             <a target="blank" href="${obj[j]["y-link"]}" class="card-link">Card link</a>
+             <a class="btn btn-secondary" target="blank" href="${obj[j]["y-link"]}" class="card-link">Card link</a>
              </div>
              </div>`
              document.getElementById('card-add').appendChild(createCard);
