@@ -107,6 +107,204 @@ const obj = [
         "about" : "Inorganic in one shot",
         "link" : "https://www.youtube.com/embed/3T1p0Q74x7I",
         "y-link" : "https://youtu.be/3T1p0Q74x7I"
+    },
+    {
+        "id" : "13",
+        "subject" : "Chemistry",
+        "name" : "Competition Wallah",
+        "topic" : "Inorganic",
+        "about" : "Inorganic in one shot",
+        "link" : "https://www.youtube.com/embed/3T1p0Q74x7I",
+        "y-link" : "https://youtu.be/3T1p0Q74x7I"
+    },
+    {
+        "id" : "14",
+        "subject" : "Chemistry",
+        "name" : "Competition Wallah",
+        "topic" : "Inorganic",
+        "about" : "Inorganic in one shot",
+        "link" : "https://www.youtube.com/embed/3T1p0Q74x7I",
+        "y-link" : "https://youtu.be/3T1p0Q74x7I"
+    },
+    {
+        "id" : "15",
+        "subject" : "Chemistry",
+        "name" : "Competition Wallah",
+        "topic" : "Inorganic",
+        "about" : "Inorganic in one shot",
+        "link" : "https://www.youtube.com/embed/3T1p0Q74x7I",
+        "y-link" : "https://youtu.be/3T1p0Q74x7I"
+    },
+    {
+        "id" : "16",
+        "subject" : "Biology",
+        "name" : "Vedantu",
+        "topic" : "Physiology",
+        "about" : "By Garima Goel",
+        "link" : "https://www.youtube.com/embed/0-_8CMmaSBg",
+        "y-link" : "https://youtu.be/0-_8CMmaSBg"
+    },
+    {
+        "id" : "17",
+        "subject" : "Biology",
+        "name" : "Unacademy NEET",
+        "topic" : "Physiology",
+        "about" : "By Sachin Kapur",
+        "link" : "https://www.youtube.com/embed/57nD74vhvtg",
+        "y-link" : "https://youtu.be/57nD74vhvtg"
+    },
+    {
+        "id" : "18",
+        "subject" : "Biology",
+        "name" : "The Physiological Society",
+        "topic" : "Physiology",
+        "about" : "Inorganic in one shot",
+        "link" : "https://www.youtube.com/embed/nkfunphAKqo",
+        "y-link" : "https://youtu.be/nkfunphAKqo"
+    },
+    {
+        "id" : "19",
+        "subject" : "Biology",
+        "name" : "Competition Wallah",
+        "topic" : "Physiology",
+        "about" : "Inorganic in one shot",
+        "link" : "https://www.youtube.com/embed/3T1p0Q74x7I",
+        "y-link" : "https://youtu.be/3T1p0Q74x7I"
+    },
+    {
+        "id" : "20",
+        "subject" : "Biology",
+        "name" : "Wondrium",
+        "topic" : "Botany",
+        "about" : "Plant Science",
+        "link" : "https://www.youtube.com/embed/8-G7D_sy7qE",
+        "y-link" : "https://youtu.be/8-G7D_sy7qE"
+    },
+    {
+        "id" : "21",
+        "subject" : "Biology",
+        "name" : "Unacademy NEET",
+        "topic" : "Botany",
+        "about" : "Inorganic in one shot",
+        "link" : "https://www.youtube.com/embed/yyI2ftqGFVI",
+        "y-link" : "https://youtu.be/yyI2ftqGFVI"
+    },
+    {
+        "id" : "22",
+        "subject" : "Biology",
+        "name" : "Vedantu",
+        "topic" : "Botany",
+        "about" : "Inorganic in one shot",
+        "link" : "https://www.youtube.com/embed/gTyALD1uDOg",
+        "y-link" : "https://youtu.be/gTyALD1uDOg"
+    },
+    {
+        "id" : "23",
+        "subject" : "Biology",
+        "name" : "Bozeman Science",
+        "topic" : "Environment",
+        "about" : "Inorganic in one shot",
+        "link" : "https://www.youtube.com/embed/LE9KTG9PFho",
+        "y-link" : "https://youtu.be/LE9KTG9PFho"
+    },
+    {
+        "id" : "24",
+        "subject" : "Biology",
+        "name" : "Let's LEARN",
+        "topic" : "Environment",
+        "about" : "Inorganic in one shot",
+        "link" : "https://www.youtube.com/embed/BeBETJ0Bnls",
+        "y-link" : "https://youtu.be/BeBETJ0Bnls"
+    },
+    {
+        "id" : "25",
+        "subject" : "Maths",
+        "name" : "Competition Wallah",
+        "topic" : "Algebra",
+        "about" : "Inorganic in one shot",
+        "link" : "https://www.youtube.com/embed/3T1p0Q74x7I",
+        "y-link" : "https://youtu.be/3T1p0Q74x7I"
+    },
+    {
+        "id" : "26",
+        "subject" : "Maths",
+        "name" : "Competition Wallah",
+        "topic" : "Algebra",
+        "about" : "Inorganic in one shot",
+        "link" : "https://www.youtube.com/embed/3T1p0Q74x7I",
+        "y-link" : "https://youtu.be/3T1p0Q74x7I"
+    },
+    {
+        "id" : "27",
+        "subject" : "Maths",
+        "name" : "Competition Wallah",
+        "topic" : "Geometry",
+        "about" : "Inorganic in one shot",
+        "link" : "https://www.youtube.com/embed/3T1p0Q74x7I",
+        "y-link" : "https://youtu.be/3T1p0Q74x7I"
+    },
+    {
+        "id" : "28",
+        "subject" : "Maths",
+        "name" : "Competition Wallah",
+        "topic" : "Geometry",
+        "about" : "Inorganic in one shot",
+        "link" : "https://www.youtube.com/embed/3T1p0Q74x7I",
+        "y-link" : "https://youtu.be/3T1p0Q74x7I"
+    },
+    {
+        "id" : "29",
+        "subject" : "Maths",
+        "name" : "Competition Wallah",
+        "topic" : "Geometry",
+        "about" : "Inorganic in one shot",
+        "link" : "https://www.youtube.com/embed/3T1p0Q74x7I",
+        "y-link" : "https://youtu.be/3T1p0Q74x7I"
+    },
+    {
+        "id" : "30",
+        "subject" : "Maths",
+        "name" : "Competition Wallah",
+        "topic" : "Calculus",
+        "about" : "Inorganic in one shot",
+        "link" : "https://www.youtube.com/embed/3T1p0Q74x7I",
+        "y-link" : "https://youtu.be/3T1p0Q74x7I"
+    },
+    {
+        "id" : "31",
+        "subject" : "Maths",
+        "name" : "Competition Wallah",
+        "topic" : "Calculus",
+        "about" : "Inorganic in one shot",
+        "link" : "https://www.youtube.com/embed/3T1p0Q74x7I",
+        "y-link" : "https://youtu.be/3T1p0Q74x7I"
+    },
+    {
+        "id" : "32",
+        "subject" : "Maths",
+        "name" : "Competition Wallah",
+        "topic" : "Calculus",
+        "about" : "Inorganic in one shot",
+        "link" : "https://www.youtube.com/embed/3T1p0Q74x7I",
+        "y-link" : "https://youtu.be/3T1p0Q74x7I"
+    },
+    {
+        "id" : "33",
+        "subject" : "Biology",
+        "name" : "Letstute",
+        "topic" : "Environment",
+        "about" : "Inorganic in one shot",
+        "link" : "https://www.youtube.com/embed/7G3eXI_DPn8",
+        "y-link" : "https://youtu.be/7G3eXI_DPn8"
+    },
+    {
+        "id" : "34",
+        "subject" : "Chemistry",
+        "name" : "YouTube Channel",
+        "topic" : "Physical",
+        "about" : "Environmental Science is a bio concept",
+        "link" : "https://www.youtube.com/embed/tgbNymZ7vqY",
+        "y-link" : "https://youtu.be/wWnfJ0-xXRE"
     }
 ]
 
@@ -152,7 +350,7 @@ for(let j =0;j<obj.length;j++)
          {
              
              let createCard = document.createElement('div');
-             createCard.innerHTML= `<div class="card bg-light m-3" style="width: 18rem">
+             createCard.innerHTML= `<div class="card bg-light m-3" style="width: 18rem; height:22rem"">
             
              <iframe class="rounded align-self-md-center" width="90%" height="40%" src=${obj[j].link}>
 </iframe>
@@ -166,7 +364,7 @@ for(let j =0;j<obj.length;j++)
              <li class="list-group-item">${obj[j].topic}</li>
              </ul>
              <div class="card-body">
-             <a href="#" class="card-link">Card link</a>
+             <a target="blank" href="${obj[j]["y-link"]}" class="card-link">Card link</a>
              </div>
              </div>`
              document.getElementById('card-add').appendChild(createCard);
