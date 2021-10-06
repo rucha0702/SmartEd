@@ -119,21 +119,21 @@ const obj = [
     },
     {
         "id" : "14",
-        "subject" : "Chemistry",
-        "name" : "Competition Wallah",
-        "topic" : "Inorganic",
+        "subject" : "Social Science",
+        "name" : "Unacademy",
+        "topic" : "History",
         "about" : "Inorganic in one shot",
-        "link" : "https://www.youtube.com/embed/3T1p0Q74x7I",
-        "y-link" : "https://youtu.be/3T1p0Q74x7I"
+        "link" : "https://www.youtube.com/embed/OQhJMSoTY9c",
+        "y-link" : "https://youtu.be/OQhJMSoTY9c"
     },
     {
         "id" : "15",
-        "subject" : "Chemistry",
-        "name" : "Competition Wallah",
-        "topic" : "Inorganic",
+        "subject" : "Social Science",
+        "name" : "Magnet Brains",
+        "topic" : "History",
         "about" : "Inorganic in one shot",
-        "link" : "https://www.youtube.com/embed/3T1p0Q74x7I",
-        "y-link" : "https://youtu.be/3T1p0Q74x7I"
+        "link" : "https://www.youtube.com/embed/7MU379LucF0",
+        "y-link" : "https://youtu.be/7MU379LucF0"
     },
     {
         "id" : "16",
@@ -164,12 +164,12 @@ const obj = [
     },
     {
         "id" : "19",
-        "subject" : "Biology",
-        "name" : "Competition Wallah",
-        "topic" : "Physiology",
-        "about" : "Inorganic in one shot",
-        "link" : "https://www.youtube.com/embed/3T1p0Q74x7I",
-        "y-link" : "https://youtu.be/3T1p0Q74x7I"
+        "subject" : "Maths",
+        "name" : "freeCodeCamp.org",
+        "topic" : "Algebra",
+        "about" : " by Dr. Linda Green",
+        "link" : "https://www.youtube.com/embed/LwCRRUa8yTU",
+        "y-link" : "https://youtu.be/LwCRRUa8yTU"
     },
     {
         "id" : "20",
@@ -219,92 +219,254 @@ const obj = [
     {
         "id" : "25",
         "subject" : "Maths",
-        "name" : "Competition Wallah",
+        "name" : "Geek's Lesson",
         "topic" : "Algebra",
         "about" : "Inorganic in one shot",
-        "link" : "https://www.youtube.com/embed/3T1p0Q74x7I",
-        "y-link" : "https://youtu.be/3T1p0Q74x7I"
+        "link" : "https://www.youtube.com/embed/PVoTRu3p6ug",
+        "y-link" : "https://youtu.be/PVoTRu3p6ug"
     },
     {
         "id" : "26",
         "subject" : "Maths",
-        "name" : "Competition Wallah",
+        "name" : "mathantics",
         "topic" : "Algebra",
         "about" : "Inorganic in one shot",
-        "link" : "https://www.youtube.com/embed/3T1p0Q74x7I",
-        "y-link" : "https://youtu.be/3T1p0Q74x7I"
+        "link" : "https://www.youtube.com/embed/NybHckSEQBI",
+        "y-link" : "https://youtu.be/NybHckSEQBI"
     },
     {
         "id" : "27",
         "subject" : "Maths",
-        "name" : "Competition Wallah",
+        "name" : "Math Fortress",
         "topic" : "Geometry",
         "about" : "Inorganic in one shot",
-        "link" : "https://www.youtube.com/embed/3T1p0Q74x7I",
-        "y-link" : "https://youtu.be/3T1p0Q74x7I"
+        "link" : "https://www.youtube.com/embed/OgNH3xrhtdg",
+        "y-link" : "https://youtu.be/OgNH3xrhtdg"
     },
     {
         "id" : "28",
         "subject" : "Maths",
-        "name" : "Competition Wallah",
+        "name" : "Organic Chemistry Tutor",
         "topic" : "Geometry",
         "about" : "Inorganic in one shot",
-        "link" : "https://www.youtube.com/embed/3T1p0Q74x7I",
-        "y-link" : "https://youtu.be/3T1p0Q74x7I"
+        "link" : "https://www.youtube.com/embed/302eJ3TzJQU",
+        "y-link" : "https://youtu.be/302eJ3TzJQU"
     },
     {
         "id" : "29",
         "subject" : "Maths",
-        "name" : "Competition Wallah",
+        "name" : "wifistudy",
         "topic" : "Geometry",
         "about" : "Inorganic in one shot",
-        "link" : "https://www.youtube.com/embed/3T1p0Q74x7I",
-        "y-link" : "https://youtu.be/3T1p0Q74x7I"
+        "link" : "https://www.youtube.com/embed/58p8KUVxWCs",
+        "y-link" : "https://youtu.be/58p8KUVxWCs"
     },
     {
         "id" : "30",
         "subject" : "Maths",
-        "name" : "Competition Wallah",
+        "name" : "freeCodeCamp.org",
         "topic" : "Calculus",
         "about" : "Inorganic in one shot",
-        "link" : "https://www.youtube.com/embed/3T1p0Q74x7I",
-        "y-link" : "https://youtu.be/3T1p0Q74x7I"
+        "link" : "https://www.youtube.com/embed/HfACrKJ_Y2w",
+        "y-link" : "https://youtu.be/HfACrKJ_Y2w"
     },
     {
         "id" : "31",
         "subject" : "Maths",
-        "name" : "Competition Wallah",
+        "name" : "Academic Lesson",
         "topic" : "Calculus",
         "about" : "Inorganic in one shot",
-        "link" : "https://www.youtube.com/embed/3T1p0Q74x7I",
-        "y-link" : "https://youtu.be/3T1p0Q74x7I"
+        "link" : "https://www.youtube.com/embed/8stueNPVl-I",
+        "y-link" : "https://youtu.be/8stueNPVl-I"
     },
     {
         "id" : "32",
         "subject" : "Maths",
-        "name" : "Competition Wallah",
+        "name" : "Vedantu",
         "topic" : "Calculus",
-        "about" : "Inorganic in one shot",
-        "link" : "https://www.youtube.com/embed/3T1p0Q74x7I",
-        "y-link" : "https://youtu.be/3T1p0Q74x7I"
-    },
-    {
-        "id" : "33",
-        "subject" : "Biology",
-        "name" : "Letstute",
-        "topic" : "Environment",
-        "about" : "Inorganic in one shot",
-        "link" : "https://www.youtube.com/embed/7G3eXI_DPn8",
-        "y-link" : "https://youtu.be/7G3eXI_DPn8"
+        "about" : "JEE Prep",
+        "link" : "https://www.youtube.com/embed/x8f0DYrrd60",
+        "y-link" : "https://youtu.be/x8f0DYrrd60"
     },
     {
         "id" : "34",
+        "subject" : "Social Science",
+        "name" : "Simran Sahni",
+        "topic" : "History",
+        "about" : "Inorganic in one shot",
+        "link" : "https://www.youtube.com/embed/ifdJ1frDef8",
+        "y-link" : "https://youtu.be/ifdJ1frDef8"
+    },
+    {
+        "id" : "35",
+        "subject" : "Social Science",
+        "name" : "Magnet Brains",
+        "topic" : "Geography",
+        "about" : "Inorganic in one shot",
+        "link" : "https://www.youtube.com/embed/Q-DO0yZufbc",
+        "y-link" : "https://youtu.be/Q-DO0yZufbc"
+    },
+    {
+        "id" : "36",
+        "subject" : "Social Science",
+        "name" : "Unacademy",
+        "topic" : "Geography",
+        "about" : "by Anirudh Malik",
+        "link" : "https://www.youtube.com/embed/VRQg6pGiPG8",
+        "y-link" : "https://youtu.be/VRQg6pGiPG8"
+    },
+    {
+        "id" : "37",
+        "subject" : "Social Science",
+        "name" : "Study IQ Education",
+        "topic" : "Geography",
+        "about" : "Inorganic in one shot",
+        "link" : "https://www.youtube.com/embed/6WKF9s_Zl5w",
+        "y-link" : "https://youtu.be/6WKF9s_Zl5w"
+    },
+    {
+        "id" : "38",
+        "subject" : "Social Science",
+        "name" : "Unacademy",
+        "topic" : "Political Science",
+        "about" : "Inorganic in one shot",
+        "link" : "https://www.youtube.com/embed/H7CJLB9cM-U",
+        "y-link" : "https://youtu.be/H7CJLB9cM-U"
+    },
+    {
+        "id" : "39",
+        "subject" : "Social Science",
+        "name" : "Study IQ Education",
+        "topic" : "Political Science",
+        "about" : "Inorganic in one shot",
+        "link" : "https://www.youtube.com/embed/XcvaO3k5vg4",
+        "y-link" : "https://youtu.be/XcvaO3k5vg4"
+    },
+    {
+        "id" : "40",
+        "subject" : "Social Science",
+        "name" : "Shubhra Ranjan IAS",
+        "topic" : "Political Science",
+        "about" : "Inorganic in one shot",
+        "link" : "https://www.youtube.com/embed/ZbjS5mV8gVI",
+        "y-link" : "https://youtu.be/ZbjS5mV8gVI"
+    },
+    {
+        "id" : "41",
+        "subject" : "English",
+        "name" : "YouTube Channel",
+        "topic" : "Literature",
+        "about" : "Environment",
+        "link" : "https://www.youtube.com/embed/tgbNymZ7vqY",
+        "y-link" : "https://youtu.be/wWnfJ0-xXRE"
+    },
+    {
+        "id" : "42",
+        "subject" : "English",
+        "name" : "YouTube Channel",
+        "topic" : "Literature",
+        "about" : "Environment",
+        "link" : "https://www.youtube.com/embed/tgbNymZ7vqY",
+        "y-link" : "https://youtu.be/wWnfJ0-xXRE"
+    },
+    {
+        "id" : "43",
+        "subject" : "English",
+        "name" : "YouTube Channel",
+        "topic" : "Literature",
+        "about" : "Environment",
+        "link" : "https://www.youtube.com/embed/tgbNymZ7vqY",
+        "y-link" : "https://youtu.be/wWnfJ0-xXRE"
+    },
+    {
+        "id" : "44",
+        "subject" : "English",
+        "name" : "YouTube Channel",
+        "topic" : "Grammar",
+        "about" : "Environment",
+        "link" : "https://www.youtube.com/embed/tgbNymZ7vqY",
+        "y-link" : "https://youtu.be/wWnfJ0-xXRE"
+    },
+    {
+        "id" : "45",
+        "subject" : "English",
+        "name" : "YouTube Channel",
+        "topic" : "Grammar",
+        "about" : "Environment",
+        "link" : "https://www.youtube.com/embed/tgbNymZ7vqY",
+        "y-link" : "https://youtu.be/wWnfJ0-xXRE"
+    },
+    {
+        "id" : "46",
+        "subject" : "English",
+        "name" : "Sundar Pichai",
+        "topic" : "Leaders Speak",
+        "about" : "Environment",
+        "link" : "https://www.youtube.com/embed/ic5O2sxhH9M",
+        "y-link" : "https://youtu.be/ic5O2sxhH9M"
+    },
+    {
+        "id" : "47",
+        "subject" : "English",
+        "name" : "Steve Jobs",
+        "topic" : "Leaders Speak",
+        "about" : "Environment",
+        "link" : "https://www.youtube.com/embed/Tuw8hxrFBH8",
+        "y-link" : "https://youtu.be/Tuw8hxrFBH8"
+    },
+    {
+        "id" : "48",
+        "subject" : "English",
+        "name" : "Elon Musk",
+        "topic" : "Leaders Speak",
+        "about" : "Environment",
+        "link" : "https://www.youtube.com/embed/t1XCzWlYWeA",
+        "y-link" : "https://youtu.be/t1XCzWlYWeA"
+    },
+    {
+        "id" : "49",
+        "subject" : "English",
+        "name" : "YouTube Channel",
+        "topic" : "Grammar",
+        "about" : "Environment",
+        "link" : "https://www.youtube.com/embed/tgbNymZ7vqY",
+        "y-link" : "https://youtu.be/wWnfJ0-xXRE"
+    },
+    {
+        "id" : "50",
         "subject" : "Chemistry",
         "name" : "YouTube Channel",
         "topic" : "Physical",
         "about" : "Environment",
         "link" : "https://www.youtube.com/embed/tgbNymZ7vqY",
         "y-link" : "https://youtu.be/wWnfJ0-xXRE"
+    },
+    {
+        "id" : "51",
+        "subject" : "Chemistry",
+        "name" : "YouTube Channel",
+        "topic" : "Physical",
+        "about" : "Environment",
+        "link" : "https://www.youtube.com/embed/tgbNymZ7vqY",
+        "y-link" : "https://youtu.be/wWnfJ0-xXRE"
+    },
+    {
+        "id" : "52",
+        "subject" : "English",
+        "name" : "Bill Gates",
+        "topic" : "Leaders Speak",
+        "about" : "Environment",
+        "link" : "https://www.youtube.com/embed/JaF-fq2Zn7I",
+        "y-link" : "https://youtu.be/JaF-fq2Zn7I"
+    },
+    {
+        "id" : "52",
+        "subject" : "English",
+        "name" : "Linus Torvalds",
+        "topic" : "Leaders Speak",
+        "about" : "Environment",
+        "link" : "https://www.youtube.com/embed/o8NPllzkFhE",
+        "y-link" : "https://youtu.be/o8NPllzkFhE"
     }
 ]
 
