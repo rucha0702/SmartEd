@@ -1,4 +1,5 @@
 # SmartEd
+<h2 align-center>SmartEd</h2>
 
 <img src="./assets/images/Study online 1.png" alt="The CircuitVerse logo" width="500"/> </br></br>
 
