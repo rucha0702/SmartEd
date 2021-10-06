@@ -11,6 +11,7 @@ This is a code snippet sharing app that lets you share syntax highlighted code s
 - **Framework** Bootstrap
 ---
 
+## Contributors 
 
 | GitHub Usernames                                      | Domain                     |
 | ----------------------------------------------------- | -------------------------- |
@@ -19,12 +20,6 @@ This is a code snippet sharing app that lets you share syntax highlighted code s
 | [@sat02yam](https://github.com/sat02yam)      | Design                 |
 | [@vijayyprajapati](https://github.com/vijayyprajapati)  | Development |
 
-
-## Contributors 
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
 <table>
   <tr>
     <td align="center"><a href="https://www.linkedin.com/in/rucha-kasture-02/"><img src="https://res.cloudinary.com/de4by5q8o/image/upload/v1628869421/rucha1_xgnbxs.jpg" width="100px;" alt=""/><br /><sub><b>Rucha Kasture</b></sub></a><br /></td>
