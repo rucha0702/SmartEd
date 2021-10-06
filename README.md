@@ -36,7 +36,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="#"><img src="https://res.cloudinary.com/de4by5q8o/image/upload/v1628878134/shubhransh_imbfzd.png" width="100px;" alt=""/><br /><sub><b>Shubhransh Bhaskar</b></sub></a><br /></td>
     <td align="center"><a href="#"><img src="https://res.cloudinary.com/de4by5q8o/image/upload/v1628849455/satyam_hidj6i.jpg" width="100px;" alt=""/><br /><sub><b>Satyam Shukla</b></sub></a><br /></td>
     <td align="center"><a href="#"><img src="https://res.cloudinary.com/de4by5q8o/image/upload/v1628849462/vijay_zafkdv.jpg" width="100px;" alt=""/><br /><sub><b>Vijay Prajapati</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="https://avatars3.githubusercontent.com/u/32996284?v=4" width="100px;" alt=""/><br /><sub><b>Akshat Khanna</b></sub></a><br /></td>
+    <td align="center"><a href="#"><img src="#" width="100px;" alt=""/><br /><sub><b></b></sub></a><br /></td>
     <
   </tr>
 </table>
