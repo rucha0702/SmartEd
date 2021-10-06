@@ -1,14 +1,14 @@
 # SmartEd
 <img src="/app/assets/images/cvlogo.svg" alt="The CircuitVerse logo" width="736"/> </br></br>
 
-# Snippet-Share
+
 This is a code snippet sharing app that lets you share syntax highlighted code snippets with easy copy paste options and a secure secret code and a unique url.
 
-> **You can view the demo [here](https://snip-share.herokuapp.com/).**
+> **You can view the website [here](https://smart-ed.netlify.app).**
 
 ## Tech Stack 👨‍💻
-- **Frontend:** HTML/CSS/Bulma CSS
-- **Backend:** Django
+- **Frontend:** HTML/CSS/JavaScript
+- **Framework** Bootstrap
 <img src="https://user-images.githubusercontent.com/42115530/85196465-fc6eaf80-b2f7-11ea-95fb-e235179101e0.jpg" alt="scodein" height="300" width="44%"/>
   </div>
   
