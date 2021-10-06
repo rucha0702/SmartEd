@@ -15,7 +15,8 @@
 
 ---
 
-## Contributors
+## Team
+<h1 color= "blue">index.html</h1>
 
 | GitHub Usernames                                       | Domain               |
 | ------------------------------------------------------ | -------------------- |
