@@ -17,9 +17,9 @@ This is a code snippet sharing app that lets you share syntax highlighted code s
 
 | GitHub Usernames                                      | Domain                     |
 | ----------------------------------------------------- | -------------------------- |
-| [@abhishek2x](https://github.com/abhishek2x)          | Full Stack + Documentation |
-| [@adad20](https://github.com/adad20)                  | Full Stack                 |
-| [@khannakshat7](https://github.com/khannakshat7)      | Full Stack                 |
+| [@rucha0702](https://github.com/rucha0702)          | Full Stack + Documentation |
+| [@iamshubhransh](https://github.com/iamshubhransh)                  | Full Stack                 |
+| [@sat02yam](https://github.com/sat02yam)      | Full Stack                 |
 | [@PragatiVerma18](https://github.com/PragatiVerma18)  | Full Stack + Documentation |
 
 
