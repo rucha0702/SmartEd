@@ -33,10 +33,10 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://www.linkedin.com/in/rucha-kasture-02/"><img src="https://res.cloudinary.com/de4by5q8o/image/upload/v1628869421/rucha1_xgnbxs.jpg" width="100px;" alt=""/><br /><sub><b>Rucha Kasture</b></sub></a><br /></td>
-    <td align="center"><a href="https://www.linkedin.com/in/manshi-todi-a017a2178/"><img src="https://avatars0.githubusercontent.com/u/47568904?v=4" width="100px;" alt=""/><br /><sub><b>Manshi Todi</b></sub></a><br /></td>
-    <td align="center"><a href="https://devdivyansh.herokuapp.com/"><img src="https://avatars0.githubusercontent.com/u/22716123?v=4" width="100px;" alt=""/><br /><sub><b>Divy1998</b></sub></a><br /></td>
-    <td align="center"><a href="https://portfolio.abhisheksrivastava.me/"><img src="https://avatars1.githubusercontent.com/u/53976003?v=4" width="100px;" alt=""/><br /><sub><b>Abhishek Srivastava</b></sub></a><br /></td>
-    <td align="center"><a href="https://linktr.ee/akshatkhanna"><img src="https://avatars3.githubusercontent.com/u/32996284?v=4" width="100px;" alt=""/><br /><sub><b>Akshat Khanna</b></sub></a><br /></td>
-    <td align="center"><a href="https://www.linkedin.com/in/adad20"><img src="https://avatars0.githubusercontent.com/u/55142272?v=4" width="100px;" alt=""/><br /><sub><b>Aditya Tomar</b></sub></a><br /></td>
+    <td align="center"><a href="#"><img src="https://res.cloudinary.com/de4by5q8o/image/upload/v1628878134/shubhransh_imbfzd.png" width="100px;" alt=""/><br /><sub><b>Shubhransh Bhaskar</b></sub></a><br /></td>
+    <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/22716123?v=4" width="100px;" alt=""/><br /><sub><b>Divy1998</b></sub></a><br /></td>
+    <td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/53976003?v=4" width="100px;" alt=""/><br /><sub><b>Abhishek Srivastava</b></sub></a><br /></td>
+    <td align="center"><a href="#"><img src="https://avatars3.githubusercontent.com/u/32996284?v=4" width="100px;" alt=""/><br /><sub><b>Akshat Khanna</b></sub></a><br /></td>
+    <
   </tr>
 </table>
