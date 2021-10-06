@@ -1,5 +1,5 @@
 # SmartEd
-<h1 style="text-align:center">SmartEd</h1>
+<h1 align = "center"">SmartEd</h1>
 
 
 <p align = "center"><img src="./assets/images/Study online 1.png" alt="The CircuitVerse logo" width="500"/></p> </br></br>
