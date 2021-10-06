@@ -1,5 +1,7 @@
-<p align = "center"><img src="./assets/images/Study online 1.png" alt="The CircuitVerse logo" width="500"/></p>
-### SmartEd
+<p align = "center"><img src="./assets/images/Study online 1.png" alt="The CircuitVerse logo" width="400"/></p>
+
+## SmartEd
+
 <p><b>SmartEd</b> beats out the orthodox ongoings of the current education system. It's the one place where you'll find the best resources for academics.</p>
 
 > **You can view the website [here](https://smart-ed.netlify.app).**
