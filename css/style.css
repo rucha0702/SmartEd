@@ -276,6 +276,10 @@ a.bg-round {
   }
   .mob-margin {
     margin-top: 0.7rem !important;
+    position: relative;
+  }
+  .mob-margin div {
+    margin-bottom: 0.5rem !important;
   }
   .study {
     height: 50%;
@@ -336,17 +340,39 @@ a.bg-round {
   color: black;
 }
 
-.btn {
-  background-color: var(--primary-organisation);
+#newsBtn {
+  background-color: black;
   border: none;
   margin: 20px;
   padding: 10px 20px;
   border-radius: 20px;
 }
-.btn:hover {
+#newsBtn:hover {
   background-color: rgb(58, 57, 57);
 }
 
 .nav-item:hover {
   color: white !important;
+  #resourceContainer {
+    display: flex;
+    flex-direction: column;
+    padding-left: 0 !important;
+  }
+  #sidebar {
+    position: relative;
+    width: 90%;
+    top: 1.5rem;
+    margin-bottom: 2rem !important;
+    /* bottom: 2rem; */
+  }
+  #message {
+    width: 100% !important;
+  }
+  #invoice div {
+    width: 95%;
+    margin: auto !important;
+  }
+  /* .card-section {
+    margin-left: 0 !important;
+  } */
 }
