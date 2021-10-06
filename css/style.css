@@ -308,7 +308,13 @@ a.bg-round {
     margin-bottom: 2rem !important;
     /* bottom: 2rem; */
   }
-
+  #message {
+    width: 100% !important;
+  }
+  #invoice div {
+    width: 95%;
+    margin: auto !important;
+  }
   /* .card-section {
     margin-left: 0 !important;
   } */
