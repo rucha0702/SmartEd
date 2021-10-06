@@ -2,7 +2,7 @@
 <img src="/app/assets/images/cvlogo.svg" alt="The CircuitVerse logo" width="736"/> </br></br>
 
 
-This is a code snippet sharing app that lets you share syntax highlighted code snippets with easy copy paste options and a secure secret code and a unique url.
+<p><b>SmartEd</b> beats out the orthodox ongoings of the current education system.</p>
 
 > **You can view the website [here](https://smart-ed.netlify.app).**
 
