@@ -327,7 +327,7 @@ for(let j =0;j<obj.length;j++)
              <li class="list-group-item">${obj[j].topic}</li>
              </ul>
              <div class="card-body">
-             <a class="btn btn-secondary" target="blank" href="${obj[j]["y-link"]}" class="card-link">Card link</a>
+             <a class="btn btn-secondary" target="blank" href="${obj[j]["y-link"]}" class="card-link">Start Watching</a>
              </div>
              </div>`
              document.getElementById('card-add').appendChild(createCard);
@@ -364,7 +364,7 @@ for(let j =0;j<obj.length;j++)
              <li class="list-group-item">${obj[j].topic}</li>
              </ul>
              <div class="card-body">
-             <a class="btn btn-secondary" target="blank" href="${obj[j]["y-link"]}" class="card-link">Card link</a>
+             <a class="btn btn-secondary" target="blank" href="${obj[j]["y-link"]}" class="card-link">Start Watching</a>
              </div>
              </div>`
              document.getElementById('card-add').appendChild(createCard);
