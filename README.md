@@ -17,10 +17,10 @@ This is a code snippet sharing app that lets you share syntax highlighted code s
 
 | GitHub Usernames                                      | Domain                     |
 | ----------------------------------------------------- | -------------------------- |
-| [@rucha0702](https://github.com/rucha0702)          | Full Stack + Documentation |
-| [@iamshubhransh](https://github.com/iamshubhransh)                  | Full Stack                 |
-| [@sat02yam](https://github.com/sat02yam)      | Full Stack                 |
-| [@PragatiVerma18](https://github.com/PragatiVerma18)  | Full Stack + Documentation |
+| [@rucha0702](https://github.com/rucha0702)            | Development |
+| [@iamshubhransh](https://github.com/iamshubhransh)                  | Design + Development                 |
+| [@sat02yam](https://github.com/sat02yam)      | Design                 |
+| [@vijayyprajapati](https://github.com/vijayyprajapati)  | Development |
 
 
 ## Contributors ✨
