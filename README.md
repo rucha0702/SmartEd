@@ -9,10 +9,7 @@ This is a code snippet sharing app that lets you share syntax highlighted code s
 ## Tech Stack 👨‍💻
 - **Frontend:** HTML/CSS/JavaScript
 - **Framework** Bootstrap
-<img src="https://user-images.githubusercontent.com/42115530/85196465-fc6eaf80-b2f7-11ea-95fb-e235179101e0.jpg" alt="scodein" height="300" width="44%"/>
-  </div>
-  
-- ### NWoC NJACK WINTER OF CODE
+---
 
 
 | GitHub Usernames                                      | Domain                     |
@@ -23,9 +20,7 @@ This is a code snippet sharing app that lets you share syntax highlighted code s
 | [@vijayyprajapati](https://github.com/vijayyprajapati)  | Development |
 
 
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+## Contributors 
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
