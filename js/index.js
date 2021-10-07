@@ -48,7 +48,7 @@ function func(){
 }
 
 // news
-let news = document.getElementById('news-resource');
+let news = document.getElementById('news-section');
 document.getElementById('newsBtn').addEventListener('click',()=>{
    news.style.display="flex";
    news.style.flexDirection="column";
