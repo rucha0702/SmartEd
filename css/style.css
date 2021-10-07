@@ -129,7 +129,6 @@ li {
   bottom: 20rem;
   text-align: left;
 }
-
 #news-section {
   display: none;
 }
@@ -145,7 +144,8 @@ li {
   position: relative;
   bottom: 20rem;
   width: fit-content;
-  margin: auto;
+  /* margin: auto; */
+  left: 13.5%;
 }
 .opacity {
   background: rgba(36, 35, 35, 0.4);
@@ -270,7 +270,7 @@ a.bg-round {
 .newspaper-list {
   display: flex;
   flex-direction: column;
-  /* backgroucolor: rgb(252, 249, 249); */
+  /* background-color: rgb(252, 249, 249); */
   text-decoration: none;
   color: white;
 }
@@ -340,6 +340,11 @@ a.bg-round {
 }
 .news-sub {
   margin: 1rem;
+}
+.img-bg {
+  position: fixed;
+  bottom: 0;
+  z-index: -2;
 }
 
 @media only screen and (max-width: 768px) {
