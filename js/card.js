@@ -482,7 +482,7 @@ for(let j =0;j<obj.length;j++)
              <div class="card-body">
              <h5 class="card-title text-center">${obj[j].name}</h5>
              <p class="card-text text-center">
-             ${obj[j].about}
+             SmartEd
              </p>
              </div>
              <ul class="list-group list-group-flush">
@@ -519,7 +519,7 @@ for(let j =0;j<obj.length;j++)
              <div class="card-body">
              <h5 class="card-title text-center">${obj[j].name}</h5>
              <p class="card-text text-center">
-             ${obj[j].about}
+             SmartEd
              </p>
              </div>
              <ul class="list-group list-group-flush">
