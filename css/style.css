@@ -127,7 +127,9 @@ li {
 /* carousal */
 .c-align {
   bottom: 20rem;
+  text-align: left;
 }
+
 #news-section {
   display: none;
 }
@@ -268,7 +270,7 @@ a.bg-round {
 .newspaper-list {
   display: flex;
   flex-direction: column;
-  /* background-color: rgb(252, 249, 249); */
+  /* backgroucolor: rgb(252, 249, 249); */
   text-decoration: none;
   color: white;
 }
@@ -338,12 +340,6 @@ a.bg-round {
 }
 .news-sub {
   margin: 1rem;
-}
-.img-bg {
-  position: fixed;
-  bottom: 0;
-  z-index: -2;
-  width: 50%;
 }
 
 @media only screen and (max-width: 768px) {
