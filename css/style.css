@@ -142,6 +142,13 @@ li {
 .update {
   position: relative;
   bottom: 20rem;
+  width: fit-content;
+  margin: auto;
+}
+.opacity {
+  background: rgba(36, 35, 35, 0.4);
+  padding: 0.5rem;
+  color: white;
 }
 .sm-img {
   width: 25rem;
