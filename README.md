@@ -4,7 +4,8 @@
 
 <p><b>SmartEd</b> beats out the orthodox ongoings of the current education system. It's the one place where you'll find the best resources for academics.</p>
 
-> **You can view the website [here](https://smart-ed.netlify.app).**
+> **You can view the website [https://smart-ed.netlify.app](https://smart-ed.netlify.app).**
+## Domain : Education
 
 ## Tech Stack 👨‍💻
 
