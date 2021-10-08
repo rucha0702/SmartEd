@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="summary.css" />
+    <style>
+      #inputText,
+      #inputText2 {
+        height: 200px;
+        width: 500px;
+      }
+      #outputText {
+        height: 200px;
+        width: 500px;
+        border: 1px solid black;
+      }
+      a {
+        text-decoration: none;
+      }
+    </style>
+    <script
+      src="https://algorithmia.com/v1/clients/js/algorithmia-0.2.1.js"
+      type="text/javascript"
+    ></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.js"></script>
+  </head>
+  <body>
+    <header>
+      <div class="logo">
+        <a href="./homepage.html"><h1>SmartEd</h1></a>
+      </div>
+      <div class="touch">
+        <h3><a href="./resource.html">Resources</a></h3>
+      </div>
+    </header>
+
+    <div class="sone" id="top">
+      <div class="hero">
+        <ul>
+          <li><h1>Summify</h1></li>
+          <li>
+            <h4>
+              An easy peasy text summarizer for your never ending lecture notes
+            </h4>
+          </li>
+        </ul>
+      </div>
+
+      <div class="textin">
+        <div class="inputBox">
+          <textarea
+            placeholder="Copy your text here!"
+            id="inputText"
+            cols="30"
+            rows="10"
+          ></textarea>
+          <a href="#opt" class="btn1"
+            ><button id="sumBtn" type="submit">Summarize</button></a
+          >
+        </div>
+      </div>
+    </div>
+
+    <div class="stwo" id="opt">
+      <h1>Here you go!</h1>
+
+      <div class="outputBox" id="invoice">
+        <div id="outputText"></div>
+      </div>
+      <div class="btn">
+        <!-- <button id="cpyTxt">Copy Text</button> -->
+        <button id="download">Download Pdf</button>
+        <a href="#top"><button id="refresh">Summarize again</button></a>
+      </div>
+    </div>
+    <script src="summary.js"></script>
+
+    <script
+      src="https://code.jquery.com/jquery-2.2.4.min.js"
+      integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+      crossorigin="anonymous"
+    ></script>
+    <script>
+      $('.btn1').on('click', function (event) {
+        if (this.hash !== '') {
+          event.preventDefault();
+          const hash = this.hash;
+          $('html,body').animate(
+            {
+              scrollTop: $(hash).offset().top,
+            },
+            800
+          );
+        }
+      });
+    </script>
+  </body>
+</html>
