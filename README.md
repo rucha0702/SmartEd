@@ -23,13 +23,13 @@
 | ------------------------------------------------------ | -------------------- |
 | [@rucha0702](https://github.com/rucha0702)             | Development          |
 | [@iamshubhransh](https://github.com/iamshubhransh)     | Design + Development |
-| [@vijayyprajapati](https://github.com/vijayyprajapati) | Development          |
+
 
 <table>
   <tr>
     <td align="center"><a target="blank" href="https://www.linkedin.com/in/rucha-kasture-02/"><img src="https://res.cloudinary.com/de4by5q8o/image/upload/v1628869421/rucha1_xgnbxs.jpg" width="100px;" alt=""/><br /><sub><b>Rucha Kasture</b></sub></a><br /></td>
     <td align="center"><a target="blank" href="#"><img src="https://res.cloudinary.com/de4by5q8o/image/upload/v1628878134/shubhransh_imbfzd.png" width="100px;" alt=""/><br /><sub><b>Shubhransh Bhaskar</b></sub></a><br /></td>
-    <td align="center"><a target="blank" href="#"><img src="https://res.cloudinary.com/de4by5q8o/image/upload/v1628849462/vijay_zafkdv.jpg" width="100px;" alt=""/><br /><sub><b>Vijay Prajapati</b></sub></a><br /></td>
+   
     
     
   </tr>
