@@ -1,4 +1,174 @@
+<!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SmartEd</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU"
+      crossorigin="anonymous"
+    />
+    <script
+      src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+      integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+      integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+      integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+      crossorigin="anonymous"
+    ></script>
+    <link
+      href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+      rel="stylesheet"
+    />
+
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.15.4/css/all.css"
+      integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm"
+      crossorigin="anonymous"
+    />
+    <!-- <link rel="stylesheet" type="text/css" href="style.css" /> -->
+    <!--Bootstrap Icons -->
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css"
+    />
+    <!--Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body id="home-pg">
+    <img
+      class="bg-img bg-size"
+      src="./assets/images/Circles Background.png"
+      alt="..."
+    />
+    <img class="study" src="./assets/images/Study online 1.png" alt="" />
+
+    <nav class="mx-5 navbar navbar-light">
+      <div class="container-fluid mt-3">
+        <div class="dropdown dropdown-mobile">
+          <button
+            class="btn btn-secondary"
+            type="button"
+            id="dropdownMenuButton"
+            data-toggle="dropdown"
+            aria-haspopup="true"
+            aria-expanded="false"
+          >
+            <i class="fas fa-bars"></i>
+          </button>
+          <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+            <a class="dropdown-item" href="./homepage.html">Home</a>
+            <a class="dropdown-item" href="./resource.html">Resources</a>
+            <a class="dropdown-item" href="./writeUp.html">Write Up</a>
+            <a class="dropdown-item" href="./FunFacts.html">Facts</a>
+            <a class="dropdown-item" href="./summary.html">Summify</a>
+          </div>
+        </div>
+        <a href="./homepage.html" class="navbar-brand">
+          <h3>Smart<span class="font-weight-bolder makeBold">Ed</span></h3>
+        </a>
+        <ul class="d-flex">
+          <li class="nav-item">
+            <a class="nav-link rounded-pill bg-round" href="./homepage.html"
+              >Home</a
+            >
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active rounded-pill" href="./resource.html"
+              >Resources</a
+            >
+          </li>
+          <li class="nav-item">
+            <a class="nav-link rounded-pill" href="./writeUp.html">WriteUp</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link rounded-pill" href="./FunFacts.html">Facts</a>
+          </li>
+          <li class="nav-item rounded-pill">
+            <a class="nav-link" href="./summary.html">Summify</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+    <div class="intro">
+      <h2 class="head-title t-posn">Smart</h2>
+      <h2 class="head-title">Education</h2>
+      <p>The pit stop for learning</p>
+      <a href="#about"
+        ><button class="btn btn-dark rounded-pill mt-3">Learn More</button></a
+      >
+    </div>
+    <img
+      class="bg-img bg-size2"
+      src="./assets/images/Circles Background-2.png"
+      alt=""
+    />
+    <div id="about" class="about-section top-posn">
+      <div class="text-center">
+        <h2 class="makeBold">About SmartEd</h2>
+        <p>
+          SmartEd beats out the orthodox ongoings of the current education
+          system. It's the one place where you'll find the best resources for
+          academics.
+        </p>
+      </div>
+    </div>
+    <div
+      class="
+        text-center
+        features
+        mt-5
+        pt-5
+        d-flex
+        flex-column
+        align-items-center
+        top-posn
+      "
+    >
+      <h2 class="makeBold">Our Features</h2>
+      <div class="d-flex mt-5 flex-wrap mob-margin">
+        <div class="d-flex mx-5">
+          <div class="mx-3 f-count fc-1">1</div>
+          <h3>Free Resources</h3>
+        </div>
+        <div class="d-flex mx-5">
+          <div class="mx-3 f-count fc-2">2</div>
+          <h3>Write Up</h3>
+        </div>
+        <div class="d-flex mx-5">
+          <div class="mx-3 f-count fc-1">3</div>
+          <h3>Facts</h3>
+        </div>
+      </div>
+    </div>
+    <div id="foot" class="footer text-center p-4 mt-5 bg-dark">
+      <div class="text-center">
+        Made with
+        <i style="color: red" class="fas fa-heart mx-1"></i> by team
+        <span class="font-weight-bold makeBold">index.html</span>
+      </div>
+    </div>
+  </body>
+</html>
+
+<!-- <html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -29,4 +199,4 @@
       sawo.showForm();
     </script>
   </body>
-</html>
+</html> -->
